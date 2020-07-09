@@ -8,6 +8,7 @@ My name is Pierre Bouillon. I'm a software engineer apprentice and a fond of (al
 - :school: Also a student of [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en)
 - :mega: I'm an occasionnal speaker and / or volunteer on events on tech
 - :computer: Always interested in learning new things, programming is my passion before my being my job !
+- :telescope: Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder)
 
 ## Get in touch
 
