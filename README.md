@@ -7,7 +7,7 @@ My name is Pierre Bouillon. I'm a software engineer apprentice and a fond of (al
 - :briefcase: I'm currently working at [DOCAPOSTE](https://www.docaposte.com/)
 - :school: Also a student of [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en)
 - :mega: I'm an occasionnal speaker and / or volunteer on events on tech
-- :computer: Always interested in learning new things, programming is my passion before my being my job !
+- :computer: Always interested in learning new things, programming is my passion before being my job !
 - :telescope: Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder)
 
 ## Get in touch
