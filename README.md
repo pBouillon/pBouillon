@@ -13,8 +13,8 @@ My name is Pierre Bouillon. I'm a software engineer apprentice and a fond of (al
 - 💼 I'm currently working at [DOCAPOSTE](https://www.docaposte.com/)
 - 🏫 Also a student of [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en)
 - 🌱 Actively learning more about REST and HATEOS
-- 🔭 Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder):
 - 💬 Ask me about anything [here](https://github.com/pBouillon/pBouillon/issues)
+- 🔭 Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder)
 
 <p align="center">
   <a href="https://github.com/pBouillon/MqttTopicBuilder">
