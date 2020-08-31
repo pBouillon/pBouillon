@@ -14,11 +14,14 @@ My name is Pierre Bouillon. I'm a software engineer apprentice and a fond of (al
 - 🏫 Also a student of [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en)
 - 🌱 Actively learning more about REST and HATEOS
 - 💬 Ask me about anything [here](https://github.com/pBouillon/pBouillon/issues)
-- 🔭 Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder)
+- 🔭 Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder) and [TinyValidator](https://github.com/pBouillon/TinyValidator), check it out !
 
 <p align="center">
   <a href="https://github.com/pBouillon/MqttTopicBuilder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pBouillon&repo=MqttTopicBuilder" alt="MqttTopicBuilder project" />
+  </a>
+  <a href="https://github.com/pBouillon/TinyValidator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pBouillon&repo=TinyValidator" alt="TinyValidator project" />
   </a>
 </p>
 
