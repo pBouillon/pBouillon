@@ -1,17 +1,5 @@
-# Hi there :wave:
+[![Linkedin](https://img.shields.io/badge/%20-pierre%20bouillon-black?style=for-the-badge&color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff")](https://linkedin.com/in/pierre-bouillon)
 
-My name is Pierre Bouillon. I'm a software engineer apprentice and a fond of (almost) every IT related fields
+French software engineer focused on creating efficient and high-quality products, fond of most of the IT fields, Open-Source and privacy advocate.
 
-## About me
-
-- 💼 I'm currently working at [DOCAPOSTE](https://www.docaposte.com/)
-- 🏫 Also a student of [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en)
-- 🌱 Actively learning more about REST and HATEOS
-- 💬 Ask me about anything [here](https://github.com/pBouillon/pBouillon/issues)
-- 🔭 Currently working on [MqttTopicBuilder](https://github.com/pBouillon/MqttTopicBuilder), check it out !
-
-## Get in touch
-
-- DEV: https://dev.to/pbouillon/
-- LinkedIn: https://www.linkedin.com/in/pierre-bouillon/
-- Personnal website: https://pbouillon.github.io/
+![Github stats](https://github-readme-stats.vercel.app/api?username=pBouillon&show_icons=true&count_private=true&theme=dracula)
